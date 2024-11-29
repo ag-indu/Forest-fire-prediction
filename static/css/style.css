@@ -1,0 +1,30 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@200&display=swap');
+
+.main{
+    background-image: url("./static/css/Images/forest_fire.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    vertical-align: bottom;
+    width: 100%;
+    height: auto;
+    /*padding: 5px;
+    padding-left: 5px;*/
+    padding-bottom: 30.25%;
+    /*margin: -10px;
+    text-align: center;*/
+    font-family: "Kanit";
+}
+/*
+.header-text{
+    color: white;
+}
+
+.sub-header-text{
+    color: white;
+}
+
+.form{
+    margin: 1%;
+    color: white;
+}
+*/
